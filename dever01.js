@@ -1,4 +1,4 @@
-let numero = prompt ("digite o valor")
+let numero = prompt ("digite o valor") 
 
 numero = parseInt (numero)
 
